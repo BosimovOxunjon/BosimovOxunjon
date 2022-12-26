@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BosimovOxunjon
-- 👀 I’m interested in Front-End developing
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bosimovoxunjon@gmail.com
